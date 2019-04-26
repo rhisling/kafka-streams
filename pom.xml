@@ -12,6 +12,7 @@
         <module>wordcount</module>
         <module>favoritecolors</module>
         <module>bankbalance</module>
+        <module>user-event-enricher</module>
     </modules>
 
     <name>kafka-streams</name>
